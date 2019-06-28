@@ -18,7 +18,7 @@ namespace app.Views
         public ListViewPage()
         {
             InitializeComponent();
-
+             
             BindingContext = new ListViewViewModel();
         }
 
