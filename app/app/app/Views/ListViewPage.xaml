@@ -13,6 +13,7 @@
                     <StackLayout Padding="15">
                         <Label Text="{Binding Name}"
                                FontSize="Medium"
+
                                TextColor="DarkBlue"/>
                         <Label Text="{Binding Age}"
                                FontSize="Medium"
